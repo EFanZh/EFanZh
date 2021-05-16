@@ -11,7 +11,9 @@
   [Essentials of Compilation](https://github.com/EFanZh/Essentials-of-Compilation-Exercises),
   [Essentials of Programming Languages](https://github.com/EFanZh/EOPL-Exercises),
   [MIT 6.824](https://pdos.csail.mit.edu/6.824/),
+  [Physically Based Rendering](https://www.pbr-book.org),
   [Programming Languages and Lambda Calculi](https://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf),
+  [The Book of Shaders](https://thebookofshaders.com),
   [The Little Typer](https://thelittletyper.com).
 - Tags:
   [Arch Linux](https://archlinux.org),
