@@ -1,6 +1,5 @@
 # EFanZh
 
-![EFanZh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EFanZh)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EFanZh&layout=compact&langs_count=8)
 
 - Working on:
