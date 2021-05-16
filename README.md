@@ -1,9 +1,7 @@
 # EFanZh
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=EFanZh" height="195" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFanZh&layout=compact&langs_count=8" height="195" />
-</div>
+![EFanZh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EFanZh)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EFanZh&layout=compact&langs_count=8)
 
 - Working on:
   [Introduction to Algorithms](https://github.com/EFanZh/Introduction-to-Algorithms),
