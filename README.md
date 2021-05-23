@@ -14,7 +14,8 @@
   [Physically Based Rendering](https://www.pbr-book.org),
   [Programming Languages and Lambda Calculi](https://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf),
   [The Book of Shaders](https://thebookofshaders.com),
-  [The Little Typer](https://thelittletyper.com).
+  [The Little Typer](https://thelittletyper.com),
+  [miniKanren](http://minikanren.org).
 - Tags:
   [Arch Linux](https://archlinux.org),
   [Offensive programming](https://en.wikipedia.org/wiki/Offensive_programming),
