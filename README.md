@@ -13,6 +13,7 @@
   [MIT 6.824](https://pdos.csail.mit.edu/6.824/),
   [Physically Based Rendering](https://www.pbr-book.org),
   [Programming Languages and Lambda Calculi](https://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf),
+  [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html),
   [The Book of Shaders](https://thebookofshaders.com),
   [The Little Typer](https://thelittletyper.com),
   [miniKanren](http://minikanren.org).
